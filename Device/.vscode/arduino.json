@@ -1,0 +1,6 @@
+{
+    "board": "espressif:esp32:m5stack-core-esp32",
+    "sketch": "device.ino",
+    "configuration": "FlashMode=qio,FlashFreq=80,PartitionScheme=default,UploadSpeed=921600,DebugLevel=none",
+    "output": "./.build"
+}

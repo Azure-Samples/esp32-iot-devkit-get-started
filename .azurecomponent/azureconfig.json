@@ -1,0 +1,11 @@
+{
+    "componentConfigs": [
+        {
+            "id": "8341d26d-3fd9-3f82-aabf-3000238ff89f",
+            "folder": "",
+            "name": "",
+            "dependencies": [],
+            "type": "IoTHub"
+        }
+    ]
+}
