@@ -56,7 +56,7 @@ Follow these steps to prepare the development environment for ESP32 devices:
 
 3. Look for **Azure IoT Device Workbench** in the extension marketplace and install it.
     ![Install IoT Device Workbench](media/esp32-get-started/install-workbench.png)
-    Together with the IoT Device Workbench, other dependent extensions will be installed.
+    Together with the IoT Device Workbench, other dependent extensions will be installed.  Also install https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino.
 
 4. Open **File > Preference > Settings** and add following lines to configure Arduino.
 
@@ -70,7 +70,7 @@ Follow these steps to prepare the development environment for ESP32 devices:
 	* macOS
 
 		```JSON
-		"arduino.path": "/Application",
+		"arduino.path": "/Applications",
 		"arduino.additionalUrls": "https://dl.espressif.com/dl/package_esp32_index.json"
 		```
 
